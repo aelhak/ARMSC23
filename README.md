@@ -1,1 +1,1 @@
-# ARMSC23
+# Analysis of Repeated Measures Short Course, Bristol Medical school
